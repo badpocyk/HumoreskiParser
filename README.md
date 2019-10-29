@@ -1,2 +1,2 @@
-# SecondLabMobile
-Android
+# VK parser
+Python
